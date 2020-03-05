@@ -1,0 +1,169 @@
+1. Artikel tentang BPaaS dari IBM.
+Setiap proses bisnis (misalnya, penggajian, pencetakan, e-niaga) dikirim sebagai layanan melalui Internet dan dapat diakses oleh satu 
+atau beberapa antarmuka yang diaktifkan web (PC, perangkat pintar, dan telepon) dapat dianggap sebagai Proses Bisnis sebagai Layanan (BPaaS) . Layanan periklanan seperti Google Adsense, IBM Blueworks Live untuk manajemen proses bisnis adalah beberapa dari beberapa layanan yang tersedia untuk umum, 
+sedangkan ada sejumlah layanan lain yang saat ini departemen TI berikan kepada penggunanya di dalam firewall atau ke mitra tepercaya.
+
+Ketika layanan ini dikirim dari cloud, itu mengubah dinamika ekonomi. Khususnya dari perspektif pengguna, seseorang bergerak menjauh dari 
+diskusi pengeluaran modal (CAPEX) ke diskusi pengeluaran operasional (OPEX) selama perhitungan kasus bisnis. 
+Ini di dunia TI adalah pergeseran paradigma, pergeseran menuju komputasi utilitas, di mana Anda membayar bahkan ketika Anda 
+berada di dalam dinding perusahaan dan rantai nilai yang diperluas (pergeseran yang sekarang kita gunakan di dunia konsumen dengan 
+banyak layanan yang tersedia melalui aplikasi di smartphone yang kami gunakan untuk mengelola banyak proses bisnis atau keluarga).
+
+Ketika seseorang melihat BPaaS dalam Arsitektur Referensi Platform Manajemen Cloud Umum 
+yang diusulkan oleh IBM untuk Grup Terbuka, BPaaS duduk di atas perangkat lunak sebagai lapisan layanan (SaaS) di atas.
+Menurut pendapat saya BPaaS adalah tentang mengkonsumsi layanan secara cerdas dari lapisan SaaS, PaaS, dan IaaS.
+
+Seiring dengan manfaat ekonomi logis dan kemudahan penggunaan pengiriman BPaaS dari cloud, manfaat utama ke depan yang saya lihat 
+adalah peluang yang harus diambil oleh calon pengguna untuk uji coba pepatah, yaitu, pengguna dapat mencoba berbagai layanan sebelum 
+berintegrasi dalam proses bisnis mereka yang lebih besar atau mengganti layanan yang ada dengan cepat. Konsep-konsep seperti desktop 
+virtual membuat layanan ini dapat dikonsumsi dari perangkat apa pun. Ini adalah perubahan paradigma lengkap yang harus dijalani oleh 
+semua orang termasuk departemen TI internal, bukan lagi departemen TI yang menciptakan dan mencari sumber layanan. Layanan sekarang 
+tersedia di pasar tempat eksekutif lini bisnis dapat mencari, digunakan untuk pengujian, dan kemudian memutuskan untuk membeli atau 
+terus mencari sesuatu yang lain.layanan yang dikonsumsi oleh proses bisnis dapat bersumber 
+dari cloud privat internal, cloud mitra, atau cloud publik. Atau, BPaaS melalui model pengiriman cloud menciptakan pasar yang sepenuhnya berbeda untuk perusahaan dan untuk organisasi CIO di mana model pengiriman yang ada tidak memfasilitasi akses ke pasar ini. Saya kira, mereka harus bertanya pada diri sendiri pertanyaan-pertanyaan berikut:
+
+Apa atribut kunci dari strategi dan model bisnis penyedia cloud yang menang?
+Bagaimana bermitra di seluruh ekosistem dapat mempercepat kesuksesan saya?
+Apa implikasinya jika saya tidak bertindak sekarang?
+
+Mari kita lihat contoh tawaran BPaaS dari IBM, yaitu IBM Blueworks Live. 
+Baik Anda terlibat dalam proses sederhana yang saat ini dijalankan melalui email, mengelola tim kecil dan ingin berjalan lebih efisien,
+atau terlibat dalam program BPM korporat seputar pemodelan proses dan pemerintahan, Blueworks Live adalah penawaran yang membawa semua 
+orang ke dalam proses percakapan, sehingga mengarah pada peningkatan visibilitas dan hasil yang lebih konsisten. 
+Berikut ini adalah fitur utama yang disediakan Blueworks Live di sekitar BPM perusahaan.
+Penemuan dan dokumentasi
+Langkah pertama dalam upaya peningkatan proses apa pun adalah mendapatkan gambaran yang jelas tentang posisi Anda hari ini.
+Dengan Blueworks Live, seluruh tim Anda dapat terlibat secara kolaboratif dalam latihan penemuan proses sementara pakar proses Anda 
+dapat menggunakan BPMN kompleks untuk mendokumentasikan aspek paling rumit dari proses Anda.
+
+Kolaborasi terpusat
+Jejaring sosial bertemu BPM di Blueworks Live. Fitur komunikasi bawaan, seperti perpesanan instan, umpan berita langsung, 
+dan kemampuan untuk meninggalkan komentar memungkinkan Anda untuk segera bereaksi terhadap proses perubahan yang memengaruhi proyek Anda.
+Dengan mengkonsolidasikan semua pengetahuan proses organisasi Anda di satu tempat, Anda dapat memastikan bahwa orang yang tepat diberi 
+tahu tentang perubahan yang tepat pada waktu yang tepat.
+Komunitas pribadi: Halaman login utama Blueworks Live segera memberi tahu Anda perubahan apa yang terjadi pada proses yang melibatkan Anda secara langsung atau tidak langsung. Pelajari proses baru mana yang telah "dibagikan" atau dipublikasikan, proses mana yang telah diedit, dan siapa yang telah mengomentari mana proses. Pilih untuk "mengikuti" pekerjaan dan proses yang melibatkan Anda. Pembaruan status real-time meningkatkan visibilitas dan akuntabilitas sambil menjaga semua orang terlibat dengan pekerjaan mereka.
+
+Komunitas publik: Gunakan komunitas pakar bawaan untuk mendapatkan industri, peningkatan proses, dan pengetahuan BPM. Aliran Twitter yang dikuratori adalah bagian dari tampilan Komunitas untuk memberi Anda blog, kertas putih, dan konten lain yang relevan yang dapat membantu Anda meningkatkan operasi bisnis Anda. Perpustakaan menampung berbagai materi seperti tutorial, laporan analis, dan video.
+
+Kontrol akses: Blueworks Live menawarkan lisensi Editor dan Kontributor. 
+Sebagai editor, Anda dapat membuat, memodifikasi, dan berbagi Cetak Biru Proses. Kontributor dapat melihat dan mengomentari proses
+tetapi tidak dapat memodifikasi atau membuatnya. Baik editor dan kontributor dapat mengonfigurasi dan menjalankan Aplikasi Proses dengan
+Blueworks Live. Blueworks Live memungkinkan administrator akun untuk mengatur tingkat akses, editor, atau kontributor,
+untuk setiap proses individu. Administrasi ditangani melalui antarmuka intuitif yang sederhana. Anda dapat mengalokasikan lisensi hanya
+dengan mengetikkan alamat email pengguna dan mengundang mereka untuk bergabung. Jika pada suatu saat, lisensi tidak digunakan, Anda dapat
+mengalokasikannya kembali untuk pengguna baru. Untuk mendapatkan kursi baru, Anda dapat memesannya secara online dengan memberikan 
+informasi kartu kredit Anda dan memilih jumlah lisensi Editor dan Kontributor yang Anda butuhkan.
+
+Ketika seseorang melihat pengumuman terbaru IBM mengenai penawaran SaaS, orang melihat bahwa IBM saat ini menawarkan sejumlah produk 
+perangkat lunak di bawah portofolio SaaS yang dapat diintegrasikan untuk membuat skenario BPaaS yang sangat berbeda dan dapat 
+disesuaikan. Proses bisnis perusahaan penting berikut saat ini dicakup oleh tawaran SaaS IBM:
+
+Kolaborasi sosial
+Manajemen Proses Bisnis
+Analisis web
+Manajemen pemasaran perusahaan
+Integrasi bisnis ke bisnis
+Manajemen rantai persediaan
+Tata kelola keamanan, manajemen risiko dan kepatuhan
+Manajemen layanan bisnis
+Juga, banyak vendor dan penyedia layanan ERP menawarkan atau dalam proses untuk menawarkan fungsionalitas ERP sebagai BPaaS.
+
+Singkatnya, saya akan mengatakan BPaaS adalah perubahan paradigma baru dalam industri yang tidak hanya mempengaruhi eksekutif TI
+tetapi juga eksekutif lini bisnis. BPaas juga merupakan kesempatan untuk mengubah proses bisnis Anda dan menciptakan arsitektur
+perusahaan yang gesit dan fleksibel untuk lingkungan bisnis yang berubah dengan cepat dan peluang yang muncul dari globalisasi.
+BPaaS: Model Diagram, Advantages, and Prospects
+Diagram Principal BPaaS
+
+Pelanggan bekerja sama secara langsung dengan penyedia BPaaS, yang dapat memilih antara dua opsi:
+
+memesan perangkat lunak cloud, yang dibangun oleh vendor SaaS pada platform dan infrastruktur yang dapat dibeli atau dikembangkan sendiri,
+mengembangkan perangkat lunak cloud mereka sendiri berdasarkan solusi pihak ketiga atau bahkan IaaS.
+Peran penyedia dapat digabungkan dalam model, tetapi itu tidak menyangkut konsumen solusi BPaaS.
+Sangat penting bagi pelanggan untuk mengetahui siapa yang menyediakan perangkat lunak, platform, dan infrastruktur untuk kinerja tugas 
+bisnis mereka hanya jika mereka berencana untuk berhenti menggunakan model BPaaS di masa depan dan mulai menggunakan solusi SaaS secara
+mandiri atau bahkan mengambil beberapa langkah lagi dalam diagram.
+Teknologi di sini berperingkat di sebelah kinerja tugas bisnis. Secara umum, pelanggan meninggalkan semua kekhawatiran untuk BPaaS dan 
+penyedia lain telah membayar biaya tambahan. Secara teoritis, pelanggan menerima kualitas layanan, yang dijamin secara finansial,
+sementara tanggung jawab untuk kualitas sepenuhnya berada pada penyedia BPaaS.
+
+Divisi Tenaga Kerja Awan Plus
+Logika untuk kemunculan model jelas.
+Model ini didasarkan pada teknologi cloud, yang pengembangannya bergantung pada meningkatnya permintaan untuk produk perangkat lunak
+termasuk solusi yang berorientasi pada efisiensi bisnis. Beralih ke perangkat lunak, platform, dan infrastruktur, yang disediakan 
+sebagai layanan, muncul dari kelayakan ekonomi. Manfaat solusi cloud mencakup penyebaran cepat, biaya yang relatif rendah, 
+serta pengurangan biaya internal pemeliharaan.
+Selain itu, prinsip-prinsip pembagian kerja juga digunakan di sini. Mengapa membeli perangkat lunak yang perlu dikelola oleh karyawan 
+penuh waktu, yang harus dilatih, dilatih ulang, dipertahankan oleh perusahaan dan seterusnya dan seterusnya? Seseorang dapat membeli 
+perangkat lunak sebagai layanan yang akan memastikan administrasi kualitas yang terjamin. Selain itu, dalam hal penyedia SaaS menawarkan layanan pemeliharaan sistem kepada ratusan pelanggan, administrator mereka seharusnya sangat berkualitas.
+BPaaS adalah langkah maju yang logis, karena model ini tidak hanya menyelesaikan masalah TI, tetapi juga bidang profesional. 
+Mengapa merekrut manajer SDM, bahkan bekerja di sistem cloud HRM? Seseorang dapat menggunakan layanan vendor BPaaS, 
+yang mencakup penyelesaian masalah SDM serta menyediakan akses sistem cloud. Kombinasi layanan tersebut mungkin diperlukan 
+ketika seorang eksekutif perlu mempertimbangkan beberapa CV pelamar pekerjaan untuk posisi manajer menengah dan lebih tinggi. 
+Pelanggan menentukan dan dapat mengubah, jika perlu, jumlah kompetensi yang ditransfer ke penyedia BPaaS.
+BPaaS di Masa Depan Terdekat
+
+Forbes dalam artikelnya “Gartner Memprediksi Layanan Infrastruktur Akan Mempercepat Pertumbuhan Cloud Computing”, tertanggal 19 Februari 2013, membagikan perkiraan analis Gartner mengenai teknologi cloud 'dan khususnya masa depan BPaaS.
+Menurut perkiraan, pertumbuhan rata-rata tahunan pasar BPaaS pada 2016 diproyeksikan menjadi 10,7%. Volume agregat pasar akan mencapai 
+47,9 miliar USD. Ini adalah $ 15 miliar atau 46% lebih, dari volume pasar SaaS diharapkan pada 2016. Model BPaaS akan lebih banyak 
+diminati dalam domain seperti keuangan dan outsourcing, manajemen hubungan pelanggan, dukungan e-commerce, dan beberapa lainnya. 
+Pertumbuhan pasar BPaaS yang lebih lambat akan berada di bidang manajemen SDM dan manajemen pasokan.
+Namun demikian, tingkat pertumbuhan pasar BPaaS tampaknya tidak cepat terhadap latar belakang umum teknologi cloud. Orang mungkin 
+berasumsi, ini ditentukan oleh fakta bahwa model peserta perlu melakukan upaya organisasi yang besar, mengubah prinsip-prinsip 
+operasional yang terbiasa untuk mengatur seluruh proses kerja. Selain itu, setiap peserta harus bergerak ke satu sama lain dan
+memperluas kerja sama, yang membutuhkan banyak waktu. Itulah sebabnya posisi vendor SaaS, yang bekerja secara langsung dengan 
+pelanggan, sejauh ini terlihat lebih menjanjikan.
+Ada 3 model solusi ERP Berbasis Cloud:
+1. SaaS
+Penyedia solusi ERP berbasis Cloud ini memungkinkan bisnis untuk menggunakan perangkat keras atau server secara bersamaan.
+Biaya servis atau biaya berlangganan dibebankan pada setiap pengguna atau bisnis yang berlangganan solusi ERP. Ini adalah model yang
+paling populer untuk bisnis kecil, karena biaya berlangganan dapat diabaikan, tidak seperti halnya biaya implementasi ERP konvensional. 
+Ini setara dengan membeli ruang server untuk menjalani portal bisnis.
+
+2. Hosted ERP
+Model ini mengizinkan setiap pelanggan atau bisnis untuk memiliki server sendiri. Cloud yang satu ini relatif mahal, 
+namun disukai oleh perusahaan-perusahaan yang lebih besar. Hosted ERP memiliki banyak keunggulan dibandingkan dengan model SaaS. 
+Karena server tidak dibagi, maka data menjadi lebih aman. Masalah dengan data yang dihadapi oleh satu bisnis tidak mempengaruhi yang 
+bisnis lainnya, karena setiap bisnis memiliki server sendiri.
+
+3. Hybrid ERP
+Bisnis yang menggunakan instalasi ERP konvensional dapat mengadopsi model Hybrid untuk pengembangan dan modul tambahan. 
+Mereka dapat mempertahankan ERP konvensional yang sudah diterapkan dan pada saat bersamaan menggunakan model berbasis Cloud untuk fungsi
+tambahan tanpa mengganggu model yang sudah ada.
+Modul
+Apache OFBiz hadir dengan serangkaian modul inti out-of-the-box (OOTB) termasuk:
+
+ Akuntansi (GL, AR, AP, FA)
+ CRM, Manajemen Pesanan & E-Commerce
+ Pergudangan dan Inventaris
+ Pabrikan & MRP
+fitur
+Apache OFBiz memiliki serangkaian fitur bisnis bermanfaat lengkap termasuk:
+
+ Manajemen Produk & Katalog
+ Promosi & Manajemen Harga
+ Pemenuhan Rantai Pasokan
+ Kontrak, Pembayaran & Penagihan
+Manfaat
+Ada berbagai manfaat yang terkait dengan menggunakan Apache OFBiz termasuk :.
+
+ Sumber gratis dan terbuka - Tidak ada biaya di muka
+ Solusi perusahaan yang dapat diskalakan dan andal
+ Sepenuhnya Disesuaikan
+ Fleksibel untuk tumbuh bersama bisnis Anda
+ 
+Apache OFBiz adalah paket aplikasi bisnis yang cukup fleksibel untuk digunakan di semua industri. Arsitektur umum memungkinkan 
+pengembang untuk dengan mudah memperluas atau meningkatkannya untuk membuat fitur khusus.
+JAWA
+Java Web Framework yang kuat
+OFBiz adalah kerangka kerja web berbasis Java termasuk mesin entitas, mesin layanan, dan UI berbasis widget yang memungkinkan Anda 
+dengan cepat membuat prototipe dan mengembangkan aplikasi web Anda.
+
+CRM & ERP
+Solusi CRM & ERP yang matang
+Proyek tingkat tinggi Apache selama 10 tahun, OFBiz telah menunjukkan stabilitas dan kematangannya sebagai solusi ERP berskala 
+enterprise yang cukup fleksibel untuk diubah dengan bisnis Anda.
+
+MENGEMBANGKAN
+Ramah Pengembang
+Arsitektur OFBiz sangat fleksibel memungkinkan pengembang untuk dengan cepat dan mudah memperluas dan meningkatkan kerangka kerja dengan
+fitur kustom.
